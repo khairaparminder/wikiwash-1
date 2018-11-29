@@ -1,6 +1,6 @@
 {
     "port": 5632,
-    "default_lifespan": 31536000,
+    "default_lifespan": 31536500,
     "lifespan_patterns": {
     },
     "providers": [
@@ -11,7 +11,7 @@
                 ".*"
             ],
             "path": "/var/cache/till",
-            "maxsize": 10737418240,
+            "maxsize": 10737419930,
             "maxitems": 0
         }
     ]
